@@ -1,0 +1,16 @@
+.app{
+    text-align: center;
+}
+
+.app > .tabuleiro{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 90vw;
+    height: 90vw;
+    margin-bottom: 40px;
+}
+
+.app > .header {
+    width: 90vw;
+    margin: 0 auto 85px auto;
+}
